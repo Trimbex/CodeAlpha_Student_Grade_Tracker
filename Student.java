@@ -269,7 +269,7 @@ String ToGrade(double percentage)
                 case VIEWDATA -> DisplayAllStudentsData();
                 default -> {
                 }
-                // Handle default case if necessary
+               
             }
 
 
